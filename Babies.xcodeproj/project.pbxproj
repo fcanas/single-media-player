@@ -24,6 +24,8 @@
 		E740B8F01E29AB9600BCCDF5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E740B8F21E29AB9600BCCDF5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E740B8F81E29ACDD00BCCDF5 /* Media.m4v */ = {isa = PBXFileReference; lastKnownFileType = file; path = Media.m4v; sourceTree = "<group>"; };
+		E740B8FF1E2BE7F600BCCDF5 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		E740B9001E2BEBDE00BCCDF5 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,8 @@
 		E740B8DA1E29AB9600BCCDF5 = {
 			isa = PBXGroup;
 			children = (
+				E740B8FF1E2BE7F600BCCDF5 /* README.md */,
+				E740B9001E2BEBDE00BCCDF5 /* LICENSE */,
 				E740B8E51E29AB9600BCCDF5 /* Babies */,
 				E740B8E41E29AB9600BCCDF5 /* Products */,
 			);
