@@ -12,7 +12,7 @@
 		E740B8EC1E29AB9600BCCDF5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E740B8EA1E29AB9600BCCDF5 /* Main.storyboard */; };
 		E740B8EE1E29AB9600BCCDF5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E740B8ED1E29AB9600BCCDF5 /* Assets.xcassets */; };
 		E740B8F11E29AB9600BCCDF5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E740B8EF1E29AB9600BCCDF5 /* LaunchScreen.storyboard */; };
-		E740B8F91E29ACDD00BCCDF5 /* Babies.m4v in Resources */ = {isa = PBXBuildFile; fileRef = E740B8F81E29ACDD00BCCDF5 /* Babies.m4v */; };
+		E740B8FE1E29CB2300BCCDF5 /* Media.m4v in Resources */ = {isa = PBXBuildFile; fileRef = E740B8F81E29ACDD00BCCDF5 /* Media.m4v */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +23,7 @@
 		E740B8ED1E29AB9600BCCDF5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E740B8F01E29AB9600BCCDF5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E740B8F21E29AB9600BCCDF5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E740B8F81E29ACDD00BCCDF5 /* Babies.m4v */ = {isa = PBXFileReference; lastKnownFileType = file; path = Babies.m4v; sourceTree = "<group>"; };
+		E740B8F81E29ACDD00BCCDF5 /* Media.m4v */ = {isa = PBXFileReference; lastKnownFileType = file; path = Media.m4v; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,7 +56,7 @@
 		E740B8E51E29AB9600BCCDF5 /* Babies */ = {
 			isa = PBXGroup;
 			children = (
-				E740B8F81E29ACDD00BCCDF5 /* Babies.m4v */,
+				E740B8F81E29ACDD00BCCDF5 /* Media.m4v */,
 				E740B8E61E29AB9600BCCDF5 /* AppDelegate.swift */,
 				E740B8E81E29AB9600BCCDF5 /* ViewController.swift */,
 				E740B8EA1E29AB9600BCCDF5 /* Main.storyboard */,
@@ -127,8 +127,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E740B8FE1E29CB2300BCCDF5 /* Media.m4v in Resources */,
 				E740B8F11E29AB9600BCCDF5 /* LaunchScreen.storyboard in Resources */,
-				E740B8F91E29ACDD00BCCDF5 /* Babies.m4v in Resources */,
 				E740B8EE1E29AB9600BCCDF5 /* Assets.xcassets in Resources */,
 				E740B8EC1E29AB9600BCCDF5 /* Main.storyboard in Resources */,
 			);
